@@ -531,3 +531,9 @@ flex-wrap: wrap;
         margin: 3rem auto;
     }
 }
+/* ############ land scape mode ############ */
+@media(orientation:landscape) and (max-height:500px){
+    .showcase-area{
+        height: 50vmax;
+    }
+}
