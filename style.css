@@ -518,6 +518,13 @@ flex-wrap: wrap;
     .food-menu-container img{
         margin: auto;
     }
+    .food-menu-item{
+        display: flex;
+        flex-direction: column;
+    }
+    footer h2{
+        font-size: 50%;
+    }
 
     .form-container{
         width: 90%;
