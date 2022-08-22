@@ -532,6 +532,10 @@ flex-wrap: wrap;
     .contact-container{
         display: flex;
         flex-direction: column;
+        text-align: center;
+    }
+    .food-description{
+        text-align: center;
     }
     .contact-image{
         width: 90%;
